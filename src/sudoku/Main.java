@@ -67,7 +67,7 @@ public class Main {
                     if (game.isGameWon()) {
                         board.display();
                         System.out.println("\n╔════════════════════════════════════╗");
-                        System.out.println("║  🎉 PARABÉNS! VOCÊ VENCEU! 🎉    ║");
+                        System.out.println("║  🎉 PARABÉNS! VOCÊ VENCEU! 🎉     ║");
                         System.out.println("╚════════════════════════════════════╝");
                         playing = false;
                     }
